@@ -27,7 +27,6 @@ The main questions I wanted to answer were:
 ## Tools I Used
 
 - PostgreSQL
-- pgAdmin 4
 - SQL
 - Power BI
 - DAX
